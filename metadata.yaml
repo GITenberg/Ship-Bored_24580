@@ -1,0 +1,27 @@
+_repo: Ship-Bored_24580
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24580-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Street, Julian
+    alias: Street, Julian Leonard
+    birthdate: 1879
+    deathdate: 1947
+    gutenberg_agent_id: '7933'
+    url: http://www.gutenberg.org/2009/agents/7933
+description: ''
+gutenberg_issued: '2008-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ocean travel'
+- !lcc 'G'
+title: Ship-Bored
+url: http://www.gutenberg.org/ebooks/24580
